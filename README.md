@@ -21,7 +21,7 @@ If you want to run the latest code from git, here's how to get started:
 
 1. Clone the code:
 
-        https://github.com/akashpawar43/BookMyShow-clone.git
+        https://github.com/akashpawardev/BookMyShow-clone.git
         cd BookMyShow-clone
 
 2. Install the node-red dependencies
@@ -45,12 +45,12 @@ If you want to run the latest code from git, here's how to get started:
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/akashpawar43/BookMyShow-clone/blob/main/public/images/website1.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/BookMyShow-clone/blob/main/public/images/website1.png" alt="project-screenshot" >
 
-<img src="https://github.com/akashpawar43/BookMyShow-clone/blob/main/public/images/website_2.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/BookMyShow-clone/blob/main/public/images/website_2.png" alt="project-screenshot" >
 
-<img src="https://github.com/akashpawar43/BookMyShow-clone/blob/main/public/images/website3.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/BookMyShow-clone/blob/main/public/images/website3.png" alt="project-screenshot" >
 
-<img src="https://github.com/akashpawar43/BookMyShow-clone/blob/main/public/images/website4.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/BookMyShow-clone/blob/main/public/images/website4.png" alt="project-screenshot" >
 
-<img src="https://github.com/akashpawar43/BookMyShow-clone/blob/main/public/images/website5.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawardev/BookMyShow-clone/blob/main/public/images/website5.png" alt="project-screenshot" >
